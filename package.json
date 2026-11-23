@@ -13,5 +13,14 @@
   "dependencies": {
     "@tailwindcss/cli": "^4.3.5",
     "tailwindcss": "^4.3.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Donnie8GO/HTMLCalculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Donnie8GO/HTMLCalculator/issues"
+  },
+  "homepage": "https://github.com/Donnie8GO/HTMLCalculator#readme"
 }
