@@ -160,6 +160,9 @@
   }
 }
 @layer utilities {
+  .table {
+    display: table;
+  }
   .text-\[\#ff1100\] {
     color: #ff1100;
   }
